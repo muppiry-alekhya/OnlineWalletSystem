@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: muppi
+Build-Jdk: 11.0.6
+Implementation-Title: FundTransfer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.capg
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/FundTransfer
+Created-By: Maven Integration for Eclipse
+
